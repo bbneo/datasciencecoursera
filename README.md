@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Scientists Toolbox refresher 2018
+Data Science Specialization refresher 2018
